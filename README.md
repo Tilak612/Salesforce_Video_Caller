@@ -37,7 +37,7 @@ By following these installation steps, you will successfully integrate the Video
 Please note that this application requires a Salesforce environment and Lightning Web Components (LWC) support.
 
 ## Screenshot 
-
+<img src='https://github.com/Tilak612/Salesforce_Video_Caller/blob/master/Studio_Project_V3.gif?raw=true' style='height:100%' />
 
 ## Author
 <p align="center">
