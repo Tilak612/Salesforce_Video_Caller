@@ -1,0 +1,70 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0052w00000FwVoKAAV",
+      "createdByName": "Tilak Padole",
+      "createdDate": "2023-06-03T08:08:47.000Z",
+      "fileName": "staticresources/pdfPreview.resource",
+      "fullName": "pdfPreview",
+      "id": "0812w000001p4CpAAI",
+      "lastModifiedById": "0052w00000FwVoKAAV",
+      "lastModifiedByName": "Tilak Padole",
+      "lastModifiedDate": "2023-06-03T08:21:20.000Z",
+      "manageableState": "unmanaged",
+      "type": "StaticResource"
+    },
+    {
+      "createdById": "0052w000009SvweAAC",
+      "createdByName": "Tushar Padole",
+      "createdDate": "2023-06-16T10:45:38.000Z",
+      "fileName": "staticresources/videocalling.resource",
+      "fullName": "videocalling",
+      "id": "0812w000000OQcnAAG",
+      "lastModifiedById": "0052w000009SvweAAC",
+      "lastModifiedByName": "Tushar Padole",
+      "lastModifiedDate": "2023-06-16T10:45:38.000Z",
+      "manageableState": "unmanaged",
+      "type": "StaticResource"
+    },
+    {
+      "createdById": "0052w00000FwVoKAAV",
+      "createdByName": "Tilak Padole",
+      "createdDate": "2023-06-03T08:08:14.000Z",
+      "fileName": "staticresources/htmlpdf.resource",
+      "fullName": "htmlpdf",
+      "id": "0812w000001p4CkAAI",
+      "lastModifiedById": "0052w00000FwVoKAAV",
+      "lastModifiedByName": "Tilak Padole",
+      "lastModifiedDate": "2023-06-03T08:08:14.000Z",
+      "manageableState": "unmanaged",
+      "type": "StaticResource"
+    },
+    {
+      "createdById": "0052w00000FwVoKAAV",
+      "createdByName": "Tilak Padole",
+      "createdDate": "2023-05-22T06:08:15.000Z",
+      "fileName": "staticresources/SiteSamples.resource",
+      "fullName": "SiteSamples",
+      "id": "0812w000001p2qOAAQ",
+      "lastModifiedById": "0052w00000FwVoKAAV",
+      "lastModifiedByName": "Tilak Padole",
+      "lastModifiedDate": "2023-05-22T06:08:15.000Z",
+      "manageableState": "unmanaged",
+      "type": "StaticResource"
+    },
+    {
+      "createdById": "0052w00000FwVoKAAV",
+      "createdByName": "Tilak Padole",
+      "createdDate": "2023-06-03T08:07:44.000Z",
+      "fileName": "staticresources/jsPdf.resource",
+      "fullName": "jsPdf",
+      "id": "0812w000001p4CfAAI",
+      "lastModifiedById": "0052w00000FwVoKAAV",
+      "lastModifiedByName": "Tilak Padole",
+      "lastModifiedDate": "2023-06-03T08:07:44.000Z",
+      "manageableState": "unmanaged",
+      "type": "StaticResource"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0052w00000FwVoKAAV",
+      "createdByName": "Tilak Padole",
+      "createdDate": "2023-06-10T19:23:40.000Z",
+      "fileName": "aura/VideoCallingApplication",
+      "fullName": "VideoCallingApplication",
+      "id": "0Ab2w000001X1LsCAK",
+      "lastModifiedById": "0052w00000FwVoKAAV",
+      "lastModifiedByName": "Tilak Padole",
+      "lastModifiedDate": "2023-06-10T19:26:21.000Z",
+      "manageableState": "unmanaged",
+      "type": "AuraDefinitionBundle"
+    },
+    {
+      "createdById": "0052w000009SvweAAC",
+      "createdByName": "Tushar Padole",
+      "createdDate": "2023-06-17T06:13:56.000Z",
+      "fileName": "aura/VideoUtilityBar",
+      "fullName": "VideoUtilityBar",
+      "id": "0Ab2w000001X3J7CAK",
+      "lastModifiedById": "0052w000009SvweAAC",
+      "lastModifiedByName": "Tushar Padole",
+      "lastModifiedDate": "2023-06-19T05:17:05.000Z",
+      "manageableState": "unmanaged",
+      "type": "AuraDefinitionBundle"
+    },
+    {
+      "createdById": "0052w00000FwVoKAAV",
+      "createdByName": "Tilak Padole",
+      "createdDate": "2023-06-18T10:18:38.000Z",
+      "fileName": "aura/connectionMessage",
+      "fullName": "connectionMessage",
+      "id": "0Ab2w000001X3OJCA0",
+      "lastModifiedById": "0052w00000FwVoKAAV",
+      "lastModifiedByName": "Tilak Padole",
+      "lastModifiedDate": "2023-06-20T10:58:50.000Z",
+      "manageableState": "unmanaged",
+      "type": "AuraDefinitionBundle"
+    },
+    {
+      "createdById": "0052w00000FwVoKAAV",
+      "createdByName": "Tilak Padole",
+      "createdDate": "2023-06-18T10:18:38.000Z",
+      "fileName": "aura/messageReceived",
+      "fullName": "messageReceived",
+      "id": "0Ab2w000001X3OKCA0",
+      "lastModifiedById": "0052w00000FwVoKAAV",
+      "lastModifiedByName": "Tilak Padole",
+      "lastModifiedDate": "2023-06-20T10:58:50.000Z",
+      "manageableState": "unmanaged",
+      "type": "AuraDefinitionBundle"
+    },
+    {
+      "createdById": "0052w00000FwVoKAAV",
+      "createdByName": "Tilak Padole",
+      "createdDate": "2023-06-18T10:18:38.000Z",
+      "fileName": "aura/webRTC",
+      "fullName": "webRTC",
+      "id": "0Ab2w000001X3OICA0",
+      "lastModifiedById": "0052w00000FwVoKAAV",
+      "lastModifiedByName": "Tilak Padole",
+      "lastModifiedDate": "2023-06-20T10:58:50.000Z",
+      "manageableState": "unmanaged",
+      "type": "AuraDefinitionBundle"
+    }
+  ]
+}
