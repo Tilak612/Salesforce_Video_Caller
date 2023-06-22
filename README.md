@@ -14,7 +14,7 @@ Video Caller is a powerful video calling application designed specifically for S
 
 To install the Video Caller package, follow these steps:
 
-1. Click on the [Installation Link](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w0000093oMy) to access the Salesforce org's login page.
+1. Click on the [Package Installation Link](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w0000093oMy) to access the Salesforce org's login page.
 
 2. After successful installation, navigate to the Salesforce setup page and search for "Session Setting". Click on it.
 
