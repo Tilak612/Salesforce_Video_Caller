@@ -40,6 +40,6 @@ Please note that this application requires a Salesforce environment and Lightnin
 
 ## Contributing
 
-Contributions are welcome! If you would like to contribute to the development of Salesforce Moder
+Contributions are welcome! If you would like to contribute to the development of Salesforce Video Caller
 
 We appreciate your interest in Video Caller for Salesforce and hope it enhances your communication experience within your organization.
