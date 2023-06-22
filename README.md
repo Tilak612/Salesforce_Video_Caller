@@ -16,7 +16,7 @@ To install the Video Caller package, follow these steps:
 
 1. Click on the [Package Installation Link](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w0000093oMy) to access the Salesforce org's login page.
 
-2. After successful installation, navigate to the Salesforce setup page and search for "Session Setting". Click on it.
+2. After successful installation Package, navigate to the Salesforce setup page and search for "Session Setting". Click on it.
 
 3. In the Session Setting page, enable the "Use Lightning Web Security for Lightning web components and Aura components" option by checking the corresponding checkbox.
 
