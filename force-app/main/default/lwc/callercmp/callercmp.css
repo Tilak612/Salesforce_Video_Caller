@@ -1,0 +1,65 @@
+.videoContainer1{
+    width: 100%;
+
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+.cameravideo{
+    width: 100%;
+    width: 100%;
+    object-fit: cover;
+    height: 100%;
+    z-index: 1;
+}
+.recordvideo1{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: absolute;
+    left: 0;
+    top: -4%;
+}
+.controls{
+    position: absolute;
+    bottom: 50px;  
+    display: flex;
+    gap: 1em;
+    justify-content: center;
+    width: 100%;
+}
+
+
+.control-container{
+  background-color: #085F63;
+  padding: 10px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+.leave-btn{
+    background-color: rgb(255,80,80, 1);
+}
+
+.control-container img{
+    height: 20px;
+    width: 20px;
+}
+.inputbox{
+    visibility: hidden;
+}
+.user1,.user2{
+    transition: all 1s ease;
+}
+.inputbox:checked ~ .videos>.videoContainer1>.user1{
+    position: absolute;
+    top: 3%;
+    left: 3%;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}

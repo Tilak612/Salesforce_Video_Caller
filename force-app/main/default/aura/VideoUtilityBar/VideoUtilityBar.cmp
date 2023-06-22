@@ -1,0 +1,9 @@
+<aura:component implements="lightning:utilityItem">
+        <aura:attribute name="supportsPopOut" type="Boolean" default="false" />
+
+    <lightning:utilityBarAPI aura:id="utilitybar" />
+     <lightning:empApi aura:id="empApi" />
+    <!-- Calls the onInit controller function on component initalization -->
+    <aura:handler name="init" value="{!this}" action="{!c.onInit}"/>'
+   	<c:videoCallingApp></c:videoCallingApp>
+</aura:component>
