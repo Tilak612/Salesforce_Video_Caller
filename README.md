@@ -42,7 +42,7 @@ Please note that this application requires a Salesforce environment and Lightnin
 ## Author
 <p align="center">
   <a href="https://github.com/Tilak612"><img src="https://img.shields.io/badge/Author-Tilak%20Padole-blueviolet?style=flat-square"></a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/tilak-padole"><img src="https://img.shields.io/badge/LinkedIn-Tilak%20Padole-blue?style=flat-square"></a>
+  <a href="https://www.linkedin.com/in/tilak-padole"><img src="https://img.shields.io/badge/LinkedIn-Tilak%20Padole-blue?style=flat-square"></a>
   <a href="https://github.com/imtiyaj786"><img src="https://img.shields.io/badge/Author-Imtiyaj%20Alam-blueviolet?style=flat-square"></a>
   <a href="https://linkedin.com/in/imtiyaj786"><img src="https://img.shields.io/badge/LinkedIn-Imtiyaj%20Alam-blue?style=flat-square"></a>
 </p>
