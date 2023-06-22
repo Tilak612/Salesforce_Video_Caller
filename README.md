@@ -38,8 +38,26 @@ Please note that this application requires a Salesforce environment and Lightnin
 
 ## Screenshot 
 
-## Contributing
 
-Contributions are welcome! If you would like to contribute to the development of Salesforce Video Caller
+## Author
 
-We appreciate your interest in Video Caller for Salesforce and hope it enhances your communication experience within your organization.
+:men: **Tilak Padole**
+:men: **Imtiyaj Alam**
+
+- [GitHub](https://github.com/Tilak612)
+- [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/tilak-padole)
+  
+- [GitHub](https://github.com/imtiyaj786)
+- [LinkedIn](https://www.linkedin.com/in/imtiyaj786/)
+
+## 🤝 Contributing
+
+- Contributions are welcome! If you would like to contribute to the development of Salesforce Video Caller
+
+- We appreciate your interest in Video Caller for Salesforce and hope it enhances your communication experience within your organization.
+
+- Feel free to check the [issues page](https://github.com/Tilak612/Salesforce_Video_Caller/issues) .
+
+# Show your support
+
+Give a ⭐ if you like this project!
